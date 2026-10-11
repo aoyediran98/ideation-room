@@ -18,4 +18,4 @@ npx vercel dev
 Without Redis the store is in-memory and resets on restart (fine for trying it).
 
 ## Deploy
-See `.claude/skills/ideation/SKILL.md`. Live: _add URL after deploy_
+See `.claude/skills/ideation/SKILL.md`. Live: https://ideation-theta.vercel.app
